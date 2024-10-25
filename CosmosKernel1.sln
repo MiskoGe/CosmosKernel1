@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CosmosKernel1", "CosmosKernel1\CosmosKernel1.fsproj", "{85B8EAE6-D280-4D2C-8344-2DA238323CE6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CosmosKernel1", "CosmosKernel1\CosmosKernel1.fsproj", "{85B8EAE6-D280-4D2C-8344-2DA238323CE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E03680C3-CF56-40E8-8713-E372A10110EE}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
